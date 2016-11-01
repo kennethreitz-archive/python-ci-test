@@ -3,6 +3,6 @@
         {"url": "https://github.com/heroku/heroku-buildpack-python#ci"}
     ],
     "scripts": {
-        "test": "testtheapp"
+        "test": "./testtheapp"
     }
 }
